@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c627d00bfd5e8bb4a94c4ab5bd472f6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btnDownAudioClip: {instanceID: 0}
+  - btnUpAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
